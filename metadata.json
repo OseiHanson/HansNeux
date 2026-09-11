@@ -1,0 +1,6 @@
+{
+  "name": "Hans Nexus - Airport Chauffeur & Dispatch",
+  "description": "Premium airport car booking with real-time tracking, automated driver dispatch, in-app chat, secure payments, and booking history.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
